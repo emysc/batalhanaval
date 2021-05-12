@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.plano_fundo{
+    background-image:url("/img/tela_fundo.png");
+    background-size: cover;
+}
+
+
+#batalha_h1{
+background-color: #c4c4c4;
+opacity: 71%;
+width: 60%;
+height: 350px;
+left: 131px;
+top: 0px;
+margin-left: 20%;
+
+
+}
+h1{
+margin-top: 10%;
+padding-top: 8%;
+font-family: Roboto;
+text-align: center;
+font-weight: bold;
+font-size: 150px;
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+h2{
+    color: #FFFFFF;
+}
+#buttons{
+    display: flex;
+    height: 10%;
+    justify-content: space-around;
+    margin-top: 15%;
+    
+
+}
+#criar_sala{
+    width: 30%;
+    height: 100%;
+    left: 112px;
+    top: 390px;
+    
+    background: #4800A4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+#buscar_sala{
+    width: 30%;
+    height: 100%;
+    left: 112px;
+    top: 390px;
+    
+    background: #4800A4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
